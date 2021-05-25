@@ -1,0 +1,4 @@
+machine/Global.java
+ machine.Global
+machine/CoffeeMachine.java
+ machine.CoffeeMachine
